@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@theme inline {
+  --color-primary: #5a7c5e;
+  --color-primary-light: #eaf2eb;
+  --color-primary-dark: #3d5c41;
+  --color-primary-muted: #8aab8e;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+  scrollbar-gutter: stable;
+  overflow-y: scroll;
+}
+
+
+body {
+  background-color: #ffffff;
+  color: #1f2937;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
