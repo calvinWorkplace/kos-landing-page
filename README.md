@@ -13,7 +13,7 @@
 
 <br/>
 
-![Hero Preview](https://placehold.co/900x450/1e293b/94a3b8?text=KostExecutivePloso+Landing+Page&font=montserrat)
+![Hero Preview](public/screenshots/hero-light.png)
 
 </div>
 
@@ -101,13 +101,13 @@ kos-landing/
 
 ## 📸 Screenshots
 
-<div align="center">
+### Hero Section — Light Mode
+![Hero Light](public/screenshots/hero-light.png)
 
+### Facilities Section
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| ![Light](https://placehold.co/420x260/f8fafc/334155?text=Light+Mode&font=montserrat) | ![Dark](https://placehold.co/420x260/0f172a/94a3b8?text=Dark+Mode&font=montserrat) |
-
-</div>
+| ![Facilities Light](public/screenshots/facilities-light.png) | ![Facilities Dark](public/screenshots/facilities-dark.png) |
 
 ---
 
