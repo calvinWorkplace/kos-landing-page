@@ -1,15 +1,15 @@
 <div align="center">
 
 # 🏢 KostExecutivePloso
-
 ### Modern Executive Boarding House Landing Page
-
 *A sleek, bilingual, dark-mode-ready landing page for KostExecutivePloso — Surabaya's premium executive boarding house.*
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aUUl3Ui-Z4M?si=06sPb8onSwyo7uwK)
+[![Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kos-landing-page.vercel.app/)
 
 <br/>
 
@@ -51,7 +51,6 @@ kos-landing/
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 - Node.js `>=18.x`
 - npm or yarn
 
@@ -105,9 +104,19 @@ kos-landing/
 ![Hero Light](public/screenshots/hero-light.png)
 
 ### Facilities Section
+
 | Light Mode | Dark Mode |
 |:---:|:---:|
 | ![Facilities Light](public/screenshots/facilities-light.png) | ![Facilities Dark](public/screenshots/facilities-dark.png) |
+
+---
+
+## 🎬 Demo & Deployment
+
+| | Link |
+|---|---|
+| 🎥 **Demo Video** | [Watch on YouTube](https://youtu.be/aUUl3Ui-Z4M?si=06sPb8onSwyo7uwK) |
+| 🌐 **Live Site** | [kos-landing-page.vercel.app](https://kos-landing-page.vercel.app/) |
 
 ---
 
